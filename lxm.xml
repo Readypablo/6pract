@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<products>
+<product pid="314">
+<name>Яблоко</name>
+<price>$1.00</price>
+<discount>3%</discount>
+</product>
+<product pid="315">
+<name>Манго</name>
+<price>$555.90</price>
+<discount>500%</discount>
+</product>
+</products>
